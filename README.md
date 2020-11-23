@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="protozoans.jpg" align="middle" width=500/>
+<p align="center">
+  <a href="https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition/depth-color-coded-projections-of-three-stentors-single-cell-freshwater-protozoans">
+    <img src="protozoans.jpg" width=400 />
+  </a>
+</p>
