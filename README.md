@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](protozoans.jpg)
+<img src="protozoans.jpg" align="middle" width=500/>
