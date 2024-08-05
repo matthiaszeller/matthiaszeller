@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Matthias! 👋
 
 <!--
 **matthiaszeller/matthiaszeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="font-size:7px">
-  <a href="https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition/depth-color-coded-projections-of-three-stentors-single-cell-freshwater-protozoans">
-    <img src="protozoans.jpg" width=400 /> 
-  </a><br/>
-    Image credits: Dr. Igor Siwanowicz<br />
-    Like protozoans? Check out other fancy stuff in this <a href="https://www.nikonsmallworld.com/galleries/photomicrography-competition">photomicrography competition</a>
-</p>
+🔬 **About Me**
+- MSc in Data Science & BSc in Bioengineering
+- Passionate about handling data, from collection and storage to processing, analysis and visualization
+- Special interest in automating processes to make my life easier
+
+
+👥 **Connect with Me**
+- [LinkedIn](https://linkedin.com/in/matthias-zeller)
